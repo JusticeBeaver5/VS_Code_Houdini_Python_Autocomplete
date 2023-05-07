@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "C:/Program Files/Side Effects Software/Houdini 19.5.431/bin/hython3.9.exe",
+    "python.jediEnabled": true,
+    "python.autoComplete.preloadModules": [
+        "hou"
+    ],
+    "python.analysis.extraPaths": [
+        "C:/Program Files/Side Effects Software/Houdini 19.5.431/houdini/python3.9libs"
+    ],
+    "python.analysis.autoFormatStrings": true
+    
+}
